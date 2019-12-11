@@ -76,7 +76,7 @@ operator|=
 literal|0
 init|;
 name|i
-operator|<
+operator|<=
 name|num
 condition|;
 operator|++
