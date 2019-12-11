@@ -79,8 +79,8 @@ name|i
 operator|<=
 name|num
 condition|;
-operator|++
 name|i
+operator|++
 control|)
 block|{
 name|printf
